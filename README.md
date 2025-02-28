@@ -92,9 +92,9 @@ I specialize in **solving real-world problems** by combining **Data Science, Mac
 ---
 
 ## **📫 Connect with Me!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/your-username)  
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/your-handle)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nithin-ch-7a478b21a/))  
+[![GitHub]([https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/your-username](https://github.com/Nithin8919))  
+[![Twitter]([https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/your-handle](https://x.com/Nithin_74))  
 
 🚀 Always open to collaborating on **exciting AI, NLP, and Data Science projects!**  
 
