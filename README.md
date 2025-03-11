@@ -1,7 +1,7 @@
 
 # **👋 Hi, I'm Nithin!**  
 
-🚀 **Full-Stack Data Scientist | Data Engineer | Generative AI & MLOps Enthusiast**  
+🚀 **Full-Stack Data Scientist | Data Engineer | AI Engineer | MLOPs Enthusiast**  
 
 💡 Passionate about **AI, NLP, LLMs, and scalable data-driven solutions**.  
 🔍 Exploring **cutting-edge AI/ML innovations & data engineering best practices**.  
